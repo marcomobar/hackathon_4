@@ -1,0 +1,5 @@
+.DS_Store
+.venv/
+covid_dataset/
+data/
+preprocessed/
